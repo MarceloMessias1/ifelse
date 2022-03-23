@@ -5,13 +5,13 @@ public class IfElse {
 		// TODO Auto-generated method stub
 
 		
-		int idadeMedia = 18;
-		int minhaIdade = 17;
+		int renataVontadeDeAprender = 16;
+		int renataSangueNoZoio = 17;
 		
-		if (minhaIdade>=idadeMedia) {
-			System.out.println("Apto para habilitação, sua idade é " + minhaIdade + ".");
+		if (renataVontadeDeAprender>=renataSangueNoZoio) {
+			System.out.println("Vou Voar " );
 		}else {
-			System.err.println("Inapto para habilitação, sua idade é " + minhaIdade + ".") ;
+			System.err.println("Vai na loucura mesmo") ;
 		}
 	}
 
